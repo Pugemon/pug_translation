@@ -1,0 +1,78 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Andy
+fontFile=
+charSet=0
+fontSize=-30
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=1
+useHinting=0
+renderFromOutline=0
+useClearType=1
+autoFitNumPages=0
+autoFitFontSizeMin=0
+autoFitFontSizeMax=0
+
+# character alignment
+paddingDown=0
+paddingUp=0
+paddingRight=0
+paddingLeft=0
+spacingHoriz=0
+spacingVert=0
+useFixedHeight=0
+forceZero=1
+widthPaddingFactor=0.00
+
+# output file
+outWidth=512
+outHeight=1024
+outBitDepth=32
+fontDescFormat=1
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=1
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=2
+
+# selected chars
+chars=32-122,124,126,160,169,171,174,176,180,183,187,1025,1040-1103,1105,8211-8212,8226,8230,8249-8250
+
+
+# imported icon images
+icon="../sprites/128.png",128,0,0,0
+icon="../sprites/129.png",129,0,0,0
+icon="../sprites/130.png",130,0,0,0
+icon="../sprites/131.png",131,0,0,0
+icon="../sprites/132.png",132,0,0,0
+icon="../sprites/133.png",133,0,0,0
+icon="../sprites/134.png",134,0,0,0
+icon="../sprites/135.png",135,0,0,0
+icon="../sprites/136.png",136,0,0,0
+icon="../sprites/137.png",137,0,0,0
+icon="../sprites/138.png",138,0,0,0
+icon="../sprites/139.png",139,0,0,0
+icon="../sprites/140.png",140,0,0,0
+icon="../sprites/141.png",141,0,0,0
+icon="../sprites/142.png",142,0,0,0
+icon="../sprites/143.png",143,0,0,0
+icon="../sprites/144.png",144,0,0,0
+icon="../sprites/145.png",145,0,0,0
